@@ -1,0 +1,54 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Abertura da Semana de Ciência e Tecnologia",
+      "descricao": "abertura da Semana de Ciência e Tecnologia do IFMS Campus Naviraí. O evento engloba, além de palestras, oficinas e mesas de debate, a Feira de Ciência e Tecnologia de Naviraí - FECINAVI, este ano realizada em parceria com a Coordenadoria Regional de Educação do Estado de Mato Grosso do Sul - CRE-8 e Semana de Agronomia - SEAGRO 2022.Agradecemos a todos pela presença e reiteramos o convite para conhecerem a FECINAVI nesta quinta, 06 de outubro.",
+      "likes": 0,
+      "fotos": [
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665177743/fotos/01-01_sp2jls.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665182073/fotos/noticia%203/310526067_492377489568827_183296209852468863_n_jsijxr.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665179510/fotos/310510041_492377126235530_4292985430461429037_n_ti3cf4.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Mini Cursos e Oficinas",
+      "descricao": "Confira algumas fotos dos minicursos e oficinas que aconteceram ontem no IFMS Campus Naviraí. A programação continua hoje com palestras e mesas de debate e amanhã nossa tradicional Feira de Ciência e Tecnologia, a FECINAVI.",
+      "likes": 0,
+      "fotos": [
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665179386/fotos/310060010_493733956099847_3144392676080885330_n_at8oox.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665179390/fotos/311138676_493734019433174_6373069406445343227_n_wy98ow.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Segundo dia da Semana de Ciência e Tecnologia",
+      "descricao": "Sei que estavam ansiosos pelas fotos desse segundo dia de Semana de Ciência e Tecnologia IFMS! 😁 E se preparem que amanhã  tem Feira de Ciência e Tecnologia - FECINAVI 🤩📄🔬📲",
+      "likes": 0,
+      "fotos": [
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665180967/fotos/noticia%203/310144966_494045552735354_2271467320997240099_n_siputn.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665180967/fotos/noticia%203/310106468_494046089401967_5237782731915600191_n_owqrzk.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665180967/fotos/noticia%203/311040306_494045986068644_4094359125556624228_n_gkqeid.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Semana de Ciência e Tecnologia Bombando!!",
+      "descricao": " Durante todo o dia, além das apresentações de trabalhos, tivemos ainda algumas palestras, parte da programação da SEAGRO - Semana de Agronomia do IFMS Campus Naviraí. Foi um dia intenso, muitas trocas e muito conhecimento.",
+      "likes": 0,
+      "fotos": [
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665182345/fotos/noticia%204/311019798_494803022659607_8239904553865898806_n_m8tcac.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665182344/fotos/noticia%204/310665164_494803349326241_4884400175169618109_n_v8kgdd.jpg",
+        "https://res.cloudinary.com/ddlwzdinp/image/upload/v1665182343/fotos/noticia%204/311302244_494803439326232_5355516983613428604_n_fbmbcp.jpg"
+      ]
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "noticiaId": 1,
+      "descricao": "Amei o Evento"
+    }
+  ]
+}
